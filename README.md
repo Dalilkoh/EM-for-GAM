@@ -4,7 +4,7 @@ This repository contains all the materials related to my Master's thesis, which 
 
 ## Repository Structure
 
-- `data/`: This directory contains both the raw and processed data used in the thesis. The raw data represents the initial dataset, while the processed data includes transformations and modifications done as part of the analysis.
+- `data`: This directory contains both the raw and processed data used in the thesis. The raw data represents the initial dataset, while the processed data includes transformations and modifications done as part of the analysis.
 - `EM_algorithm_for_GAM.ipynb`: A Jupyter Notebook that includes the main functions and the code for the analysis of the primary model used in the thesis. It provides an in-depth exploration of the EM algorithm applied to GAMs.
 - `Master_thesis.pdf`: The complete PDF document of my Master's thesis, which includes a comprehensive explanation of the research, methodology, results, and conclusions.
 - `Master_thesis_poster.pdf`: A poster of my Master's thesis, which serves as a summary.
