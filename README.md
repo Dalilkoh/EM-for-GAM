@@ -11,7 +11,7 @@ This repository contains all the materials related to my Master's thesis, which 
 
 ## Introduction to problematic
 
-The Jupyter Notebook, `EM_algorithm_for_GAM.ipynb`, serves as a practical guide and detailed analysis of the EM algorithm in the context of GAMs. The central objective of this study is to tackle the intricate challenge of parameter estimation in two distinct GAMs, one representing the signal and the other representing the background. This task is particularly complex due to the nature of the data: we only have access to the aggregated sum of these two components, making the separation and analysis of the individual components a sophisticated problem.
+The Jupyter Notebook `EM_algorithm_for_GAM.ipynb` serves as a practical guide and detailed analysis of the EM algorithm in the context of GAMs. The central objective of this study is to tackle the intricate challenge of parameter estimation in two distinct GAMs, one representing the signal and the other representing the background. This task is particularly complex due to the nature of the data: we only have access to the aggregated sum of these two components, making the separation and analysis of the individual components a sophisticated problem.
 
 ## Libraries Used
 
